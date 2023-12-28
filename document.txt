@@ -1,0 +1,13 @@
+create laravel project
+
+Laravel Breeze 
+
+Installation spatie in Laravel 
+
+seeder
+
+middlware
+
+middlware register
+
+route/web.php
